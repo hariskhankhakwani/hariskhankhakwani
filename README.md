@@ -1,8 +1,6 @@
-<div>
-    <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="100%" />
+<div align="center">
+   <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="50%" style="max-width: 800px;" />
 </div>
-
-
 
 
 # Haris Khakwani
