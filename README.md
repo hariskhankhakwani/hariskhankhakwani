@@ -2,6 +2,8 @@
 <div align="center">
    <img src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" width="50%" height="50%"  />
 </div>
+
+## Haris Khakwani
 📞 +92 3477050005  
 ✉️ h.k.khakwani98@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-haris-khakwani-28b138212/  
