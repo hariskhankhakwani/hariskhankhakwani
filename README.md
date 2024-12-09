@@ -4,6 +4,8 @@
 </div>
 
 ## Haris Khakwani
+### Data Scientist | Data Engineer | Python Engineer
+
 📞 +92 3477050005  
 ✉️ h.k.khakwani98@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-haris-khakwani-28b138212/  
@@ -22,7 +24,8 @@ Innovative Senior Software Engineer with 2+ years of experience in Python develo
 **Other Skills:** ETL/ELT, SVG Parsing, Vector Database Management, Asynchronous Programming
 
 ## PROFESSIONAL EXPERIENCE
-### Senior Software Engineer | Carbonteq, Lahore, Pakistan
+### Senior Software Engineer
+Carbonteq, Lahore, Pakistan  
 **Jan 2022 - Present**
 
 #### Projects and Key Contributions:
