@@ -1,8 +1,6 @@
 <div align="center">
-   <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="50%" style="max-width: 800px;" />
+   <img src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" width="50%" height="50%"  />
 </div>
-
-
 # Haris Khakwani
 📞 +92 3477050005  
 ✉️ h.k.khakwani98@gmail.com  
