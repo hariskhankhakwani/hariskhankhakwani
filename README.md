@@ -25,7 +25,7 @@ Innovative Senior Software Engineer with 2+ years of experience in Python develo
 **Other Skills:** ETL/ELT, SVG Parsing, Vector Database Management, Asynchronous Programming
 
 ## PROFESSIONAL EXPERIENCE
-### Senior Software Engineer | CarbonTeQ, Lahore, Pakistan
+### Senior Software Engineer | Carbonteq, Lahore, Pakistan
 **Jan 2022 - Present**
 
 #### Projects and Key Contributions:
