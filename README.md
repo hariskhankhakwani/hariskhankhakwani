@@ -6,10 +6,8 @@
 ## Haris Khakwani
 ### Data Scientist | Data Engineer | Python Engineer
 
-📞 +92 3477050005  
 ✉️ h.k.khakwani98@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-haris-khakwani-28b138212/  
-🐙 GitHub: https://github.com/hariskhankhakwani  
 
 ## PROFESSIONAL SUMMARY
 Innovative Senior Software Engineer with 2+ years of experience in Python development, data engineering, and machine learning. Specialized in building scalable data solutions, implementing ETL processes, and developing advanced analytics applications using cutting-edge technologies.
